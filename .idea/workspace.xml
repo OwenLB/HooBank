@@ -5,13 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6e49366-2631-4c3f-805c-f97183a1377d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bank_modern_app/src/constants/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bank_modern_app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/bank_modern_app/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/bank_modern_app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/owen/Documents/NeoBank",
+    "last_opened_file_path": "/Users/owen/Documents/NeoBank/bank_modern_app/src",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.standard": "",
@@ -39,6 +51,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bank_modern_app/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bank_modern_app/src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666019672737</updated>
-      <workItem from="1666019674023" duration="893000" />
+      <workItem from="1666019674023" duration="1745000" />
     </task>
     <servers />
   </component>
