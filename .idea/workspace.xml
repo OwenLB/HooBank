@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6e49366-2631-4c3f-805c-f97183a1377d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/project_hoobank-main/deploy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_hoobank-main/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/project_hoobank-main/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_hoobank-main/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/project_hoobank-main/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_hoobank-main/src/constants/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/project_hoobank-main/src/constants/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_hoobank-main/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/project_hoobank-main/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_hoobank-main/src/components/Billing.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/project_hoobank-main/src/components/Billing.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_hoobank-main/src/components/Business.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/project_hoobank-main/src/components/Business.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_hoobank-main/src/components/Button.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/project_hoobank-main/src/components/Button.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_hoobank-main/src/components/CTA.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/project_hoobank-main/src/components/CTA.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_hoobank-main/src/components/CardDeal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/project_hoobank-main/src/components/CardDeal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_hoobank-main/src/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/project_hoobank-main/src/components/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_hoobank-main/src/components/GetStarted.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/project_hoobank-main/src/components/GetStarted.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_hoobank-main/src/components/Hero.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/project_hoobank-main/src/components/Hero.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_hoobank-main/src/components/Testimonials.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/project_hoobank-main/src/components/Testimonials.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666019672737</updated>
       <workItem from="1666019674023" duration="2778000" />
-      <workItem from="1666023362016" duration="3815000" />
+      <workItem from="1666023362016" duration="5154000" />
     </task>
     <servers />
   </component>
