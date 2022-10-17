@@ -3,15 +3,15 @@ import { people01, people02, people03, facebook, instagram, linkedin, twitter, a
 export const navLinks = [
   {
     id: "home",
-    title: "Home",
+    title: "Accueil",
   },
   {
     id: "features",
-    title: "Features",
+    title: "Fonctionalités",
   },
   {
     id: "product",
-    title: "Product",
+    title: "Produits",
   },
   {
     id: "clients",
@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Récompenses",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Les meilleures cartes de crédit, des combinaisons alléchantes de promotions et de prix.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% Sécurisé",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+        "Nous prenons des mesures proactives pour nous assurer que vos informations et vos transactions sont sécurisées.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Transfert de solde",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+        "Une carte de crédit avec transfert de solde peut vous faire économiser beaucoup d'argent en frais d'intérêt",
   },
 ];
 
@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+        "L'argent n'est qu'un outil. Il vous emmènera où vous voulez, mais il ne vous remplacera pas en tant que conducteur",
     name: "Herman Jensen",
-    title: "Founder & Leader",
+    title: "Fondateur et dirigeant",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+        "L'argent vous facilite la vie. Si vous avez la chance d'en avoir, vous avez de la chance.",
     name: "Steve Mark",
-    title: "Founder & Leader",
+    title: "Fondateur et dirigeant",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+        "Ce sont généralement les personnes qui travaillent dans le domaine de l'argent, de la finance et du commerce international qui sont vraiment riches",
     name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    title: "Fondateur et dirigeant",
     img: people03,
   },
 ];
@@ -73,12 +73,12 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "Utilisateur actif",
     value: "3800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
+    title: "Confiance d'entreprises",
     value: "230+",
   },
   {
@@ -90,39 +90,39 @@ export const stats = [
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "Liens utiles",
     links: [
       {
-        name: "Content",
+        name: "Contenu",
         link: "https://www.hoobank.com/content/",
       },
       {
-        name: "How it Works",
+        name: "Comment ça marche",
         link: "https://www.hoobank.com/how-it-works/",
       },
       {
-        name: "Create",
+        name: "Créer",
         link: "https://www.hoobank.com/create/",
       },
       {
-        name: "Explore",
+        name: "Explorer",
         link: "https://www.hoobank.com/explore/",
       },
       {
-        name: "Terms & Services",
+        name: "Conditions et services",
         link: "https://www.hoobank.com/terms-and-services/",
       },
     ],
   },
   {
-    title: "Community",
+    title: "Communauté",
     links: [
       {
-        name: "Help Center",
+        name: "Centre d'aide",
         link: "https://www.hoobank.com/help-center/",
       },
       {
-        name: "Partners",
+        name: "Partenaires",
         link: "https://www.hoobank.com/partners/",
       },
       {
@@ -140,14 +140,14 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Partner",
+    title: "Partenaires",
     links: [
       {
-        name: "Our Partner",
+        name: "Nos artenaires",
         link: "https://www.hoobank.com/our-partner/",
       },
       {
-        name: "Become a Partner",
+        name: "Devenir un partenaires",
         link: "https://www.hoobank.com/become-a-partner/",
       },
     ],
