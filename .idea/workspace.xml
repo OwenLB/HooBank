@@ -5,45 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6e49366-2631-4c3f-805c-f97183a1377d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project_hoobank-main/deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/public/vite.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/App.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/Discount.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/Send.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/Shield.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/Star.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/airbnb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/apple.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/arrow-up.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/bill.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/binance.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/card.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/close.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/coinbase.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/dropbox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/facebook.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/google.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/instagram.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/linkedin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/menu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/people01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/people02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/people03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/quotes.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/robot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/assets/twitter.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/constants/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/src/main.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bank_modern_app/vite.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_hoobank-main/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/project_hoobank-main/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_hoobank-main/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/project_hoobank-main/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_hoobank-main/src/constants/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/project_hoobank-main/src/constants/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project_hoobank-main/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/project_hoobank-main/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666019672737</updated>
       <workItem from="1666019674023" duration="2778000" />
-      <workItem from="1666023362016" duration="665000" />
+      <workItem from="1666023362016" duration="3815000" />
     </task>
     <servers />
   </component>
